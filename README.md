@@ -1,3 +1,7 @@
+# Stage
+Je suis actuellement à la recherche d'un stage rémunéré de 10 semaines à partir du 29 avril 2024, qui me permettra de valider ma 2ème année d'informatique.
+Merci de m'envoyer un e-mail à l'adresse : nathanahoussi502@gmail.com .
+
 # 💫 About Me:
 🏫 I'm currently studying at IUT ORSAY, in my second year.<br>- 🧠 I am currently learning new IT languages for my personal projects.<br>- 🏢 I am actively looking for a 2-month internship in computer science for April.<br>- 📋 I'm open to freelancing projects; that's why I'm considering opening a Fiverr account. <br>- ❤️ I enjoy creating PowerPoint presentations about video games, and I would love to continue doing so. <br>- 💭 In the future, I aspire to establish a company named Jayrus that will specialize in developing video games and IT technologies.
 

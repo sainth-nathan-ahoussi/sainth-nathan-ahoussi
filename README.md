@@ -1,4 +1,4 @@
-# Stage
+# 🙏🏾 Stage
 Je suis actuellement à la recherche d'un stage rémunéré de 10 semaines à partir du 29 avril 2024, qui me permettra de valider ma 2ème année d'informatique.
 Merci de m'envoyer un e-mail à l'adresse : nathanahoussi502@gmail.com .
 

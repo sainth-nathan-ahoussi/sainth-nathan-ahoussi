@@ -1,4 +1,4 @@
-# Les répertoires Github sont actuellement entrain d'être peaufiner afin d'accueillir les projets correspondant
+# Les répertoires Github sont actuellement entrain d'être peaufiner afin d'accueillir les projets correspondant !!
 
 
 # 🙏🏾 Stage

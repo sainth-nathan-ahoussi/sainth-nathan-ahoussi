@@ -4,11 +4,11 @@ Lien pour mon portfolio Ecampus : https://mahara.paris-saclay.fr/view/view.php?t
 
 
 # 🙏🏾 Stage
-Je suis actuellement à la recherche d'un stage rémunéré de 16 semaines dès maintenant jusqu'à mai, qui me permettra de valider ma dernière année d'informatique.
-Merci de m'envoyer un e-mail à l'adresse si vous êtes intéressé pzr mon profil : nathanahoussi502@gmail.com .
+Étant accepté en Master cybersécurité au CNAM d'angers et Montpellier, je suis actuellement à la recherche d'une alternance en cybersécurité de 2 ans débutant en Septembre 2025.
+Merci de m'envoyer un e-mail si vous êtes intéressés par mon profil : nathanahoussi502@gmail.com .
 
 # 💫 About Me:
-🏫 I'm currently studying at IUT ORSAY, in my second year.<br>- 🧠 I am currently learning new IT languages for my personal projects.<br>- 🏢 I am actively looking for a 4-month internship in computer science for January.<br>- 📋 I'm open to freelancing projects; that's why I'm considering opening a Fiverr account. <br>- ❤️ I enjoy creating PowerPoint presentations about video games, and I would love to continue doing so. <br>- 💭 In the future, I aspire to establish a company named Jayrus that will specialize in developing video games and IT technologies.
+🏫 I'm currently studying at IUT ORSAY, in my last year adnd I'm accepted at CNAM of Angers and Montpellier. <br>- 🏢 So, I'm actively looking for a internship for September 2025.<br>- 🧠 I am currently learning new IT languages for my personal projects. <br>- 📋 I'm open to freelancing projects; that's why I'm considering opening a Fiverr account. <br>- ❤️ I enjoy creating PowerPoint presentations about video games, and I would love to continue doing so. <br>- 💭 In the future, I aspire to establish a company named Jayrus that will specialize in developing video games and IT technologies.
 
 
 ## 🌐 Socials:
@@ -19,7 +19,7 @@ Merci de m'envoyer un e-mail à l'adresse si vous êtes intéressé pzr mon prof
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sainth-nathan-ahoussi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sainth-nathan-ahoussi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sainth-nathan-ahoussi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-'langs/?username=sainth-nathan-ahoussi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)

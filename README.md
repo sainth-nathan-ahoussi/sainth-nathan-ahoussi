@@ -4,11 +4,11 @@ Lien pour mon portfolio Ecampus : https://mahara.paris-saclay.fr/view/view.php?t
 
 
 # 🙏🏾 Alternance Cybersécurité
-Étant accepté en Master cybersécurité au CNAM d'angers et Montpellier, je suis actuellement à la recherche d'une alternance en cybersécurité de 2 ans débutant en Septembre 2025.
+Je suis actuellement à la recherche d'une alternance en cybersécurité de 3 ans débutant en Septembre 2026.
 Merci de m'envoyer un e-mail si vous êtes intéressés par mon profil : nathanahoussi502@gmail.com .
 
 # 💫 About Me:
-🏫 I'm currently studying at IUT ORSAY, in my last year and I'm accepted at CNAM of Angers and Montpellier. <br>- 🏢 So, I'm actively looking for a internship for September 2025.<br>- 🧠 I am currently learning new IT languages for my personal projects. <br>- 📋 I'm open to freelancing projects; that's why I'm considering opening a Fiverr account. <br>- ❤️ I enjoy creating PowerPoint presentations about video games, and I would love to continue doing so. <br>- 💭 In the future, I aspire to establish a company named Jayrus that will specialize in developing video games and IT technologies.
+🏫 I'm currently studying at IUT ORSAY, in my last year <br>- 🏢 So, I'm actively looking for a internship for September 2026.<br>- 🧠 I am currently learning new IT languages for my personal projects. <br>- 📋 I'm open to freelancing projects; that's why I'm considering opening a Fiverr account. <br>- ❤️ I enjoy creating PowerPoint presentations about video games, and I would love to continue doing so. <br>- 💭 In the future, I aspire to establish a company named Jayrus that will specialize in developing video games and IT technologies.
 
 
 ## 🌐 Socials:

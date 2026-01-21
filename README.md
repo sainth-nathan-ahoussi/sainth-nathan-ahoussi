@@ -3,8 +3,8 @@ Lien pour mon portfolio Ecampus : https://mahara.paris-saclay.fr/view/view.php?t
 # Les répertoires Github sont actuellement entrain d'être peaufiné afin d'accueillir les projets correspondant !!
 
 
-# 🙏🏾 Alternance Cybersécurité
-Je suis actuellement à la recherche d'une alternance en cybersécurité de 3 ans débutant en Septembre 2026.
+# 🙏🏾 Recherche Stage
+Je suis actuellement à la recherche d'un stage en informatique débutant à partir de Janvier 2026 et qui dure 16 semaines.
 Merci de m'envoyer un e-mail si vous êtes intéressés par mon profil : nathanahoussi502@gmail.com .
 
 # 💫 About Me:

@@ -5,7 +5,7 @@ Je suis actuellement à la recherche d'une alternance en Intelligence Artificiel
 Merci de m'envoyer un mail si vous êtes intéressés par mon profil : nathanahoussi502@gmail.com .
 
 # 💫 About Me:
-🏫 I'm currently studying at ETNA <br>- 🏢 So, I'm actively looking for a apprenticeship for as soon as possible.<br>- 🧠 I am currently learning new IT languages for my personal and school projects. <br>- 📋 I'm open to freelancing projects; that's why I'm considering opening a Fiverr account. <br>- ❤️ I enjoy creating PowerPoint presentations about IT subject and I would love to continue doing so. <br>- 💭 In the future, I aspire to establish a company named Jayrus that will specialize in developing Entertainment (Games,Music,Movies) and IT technologies.
+🏫 I'm currently studying at ETNA for a Master’s Degree in Artificial Intelligence and Big Data <br>- 🏢 So, I'm actively looking for a apprenticeship for as soon as possible.<br>- 🧠 I am currently learning new IT languages for my personal and school projects. <br>- 📋 I'm open to freelancing projects; that's why I'm considering opening a Fiverr account. <br>- ❤️ I enjoy creating PowerPoint presentations about IT subject and I would love to continue doing so. <br>- 💭 In the future, I aspire to establish a company named Jayrus that will specialize in developing Entertainment (Games,Music,Movies) and IT technologies.
 
 
 ## 🌐 Socials:

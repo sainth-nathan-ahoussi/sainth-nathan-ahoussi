@@ -1,5 +1,3 @@
-# Les répertoires Github sont actuellement entrain d'être peaufiné afin d'accueillir les projets correspondant !!
-
 # 🙏🏾 Recherche Alternance
 Je suis actuellement à la recherche d'une alternance en Intelligence Artificielle ou en Cyber-sécurité débutant à partir de Septembre 2026 et qui dure 2-3 ans.
 Merci de m'envoyer un mail si vous êtes intéressés par mon profil : nathanahoussi502@gmail.com .
